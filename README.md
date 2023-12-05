@@ -1,16 +1,16 @@
 # YouTube AI Chat 🤖
 
-### Chrome Extension That Let's you Chat with YouTube Videos 📽️
-
 - [YouTube AI Chat 🤖](#youtube-ai-chat-)
-  - [Chrome Extension That Let's you Chat with YouTube Videos 📽️](#chrome-extension-that-lets-you-chat-with-youtube-videos-️)
-  - [Chat with us on Discord](#chat-with-us-on-discord)
+- [Chat with us on Discord](#chat-with-us-on-discord)
+- [Download Link (For the Lazy) 🧑‍💻](#download-link-for-the-lazy-)
+  - [About the Project](#about-the-project)
     - [How it Works](#how-it-works)
-    - [Quiet. I just want to try it.](#quiet-i-just-want-to-try-it)
+  - [Contributing](#contributing)
     - [Prerequisites](#prerequisites)
     - [How to Install](#how-to-install)
+  - [IMPORTANT NOTES ⏰](#important-notes-)
     - [Philosophy](#philosophy)
-    - [NOTES](#notes)
+    - [Respect to the Project / Contributors](#respect-to-the-project--contributors)
     - [🚨 DISCLAIMER 🚨](#-disclaimer-)
 
 [![](assets/datastaxlogo.png#gh-light-mode-only)](https://www.datastax.com/lp/astra-registration?utm_medium=youtube_video&utm_source=datastax&utm_campaign=yt_influencers&utm_content=vector_search_lewis_menelaws#gh-light-mode-only)
@@ -21,9 +21,17 @@
 
 [**_SEE DISCLAIMER_**](#disclaimer)
 
-## [Chat with us on Discord](https://dsc.gg/lewismenelaws)
+# [Chat with us on Discord](https://dsc.gg/lewismenelaws)
 
-[![](assets/discordbanner.png)](https://dsc.gg/lewismenelaws)
+[![](assets/discordbanner.gif)](https://dsc.gg/lewismenelaws)
+
+# Download Link (For the Lazy) 🧑‍💻
+
+[DOWNLOAD ▶️](https://chromewebstore.google.com/u/1/detail/youtubeaichat/pffkcbmbpncfkebklnbidgimnhgjkijg?hl=en-GB)
+
+_please note that I can't guarantee uptime with this since it's using my API keys. For a more reliable option, you can follow the instructions below to run it yourself._
+
+## About the Project
 
 ### How it Works
 
@@ -34,13 +42,7 @@ This extension uses the Plasmo Extension Framework to deploy a little chat bubbl
 - Uses OpenAI's GPT-4 to generate a response to the user's message with context from AstraDB.
 - Responds to the user.
 
-### Quiet. I just want to try it.
-
-[If you say so... here's a download with a service I am hosting myself.](https://chromewebstore.google.com/u/1/detail/youtubeaichat/pffkcbmbpncfkebklnbidgimnhgjkijg?hl=en-GB)
-
-[DOWNLOAD ▶️](https://chromewebstore.google.com/u/1/detail/youtubeaichat/pffkcbmbpncfkebklnbidgimnhgjkijg?hl=en-GB)
-
-_please note that I can't guarantee uptime with this since it's using my API keys. For a more reliable option, you can follow the instructions below to run it yourself._
+## Contributing
 
 ### Prerequisites
 
@@ -64,11 +66,13 @@ Then to run the backend:
 3. run `docker compose up --build`. This will build the docker image and run it.
 4. You should be good to go!
 
+## IMPORTANT NOTES ⏰
+
 ### Philosophy
 
 I see paid versions of this type of application everywhere and I thought it could be really simple to just make free. The amount of features that users would want is endless so I thought I would just make a simple version that works and then let the community build on top of it.
 
-### NOTES
+### Respect to the Project / Contributors
 
 This is very early. If you are wanting to add features, report bugs or fix anything, please feel free to open a PR or an issue. I will be working on this in my spare time so I can't guarantee that I will be able to fix everything but I will try my best.
 
