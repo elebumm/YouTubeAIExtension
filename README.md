@@ -2,13 +2,28 @@
 
 ### Chrome Extension That Let's you Chat with YouTube Videos 📽️
 
-[![](assets/datastaxlogo.png)](https://www.datastax.com/lp/astra-registration?utm_medium=youtube_video&utm_source=datastax&utm_campaign=yt_influencers&utm_content=vector_search_lewis_menelaws)
+- [YouTube AI Chat 🤖](#youtube-ai-chat-)
+  - [Chrome Extension That Let's you Chat with YouTube Videos 📽️](#chrome-extension-that-lets-you-chat-with-youtube-videos-️)
+  - [Chat with us on Discord](#chat-with-us-on-discord)
+    - [How it Works](#how-it-works)
+    - [Quiet. I just want to try it.](#quiet-i-just-want-to-try-it)
+    - [Prerequisites](#prerequisites)
+    - [How to Install](#how-to-install)
+    - [Philosophy](#philosophy)
+    - [NOTES](#notes)
+    - [🚨 DISCLAIMER 🚨](#-disclaimer-)
 
-<video controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-</video>
+[![](assets/datastaxlogo.png#gh-light-mode-only)](https://www.datastax.com/lp/astra-registration?utm_medium=youtube_video&utm_source=datastax&utm_campaign=yt_influencers&utm_content=vector_search_lewis_menelaws)
+
+[![](assets/datastaxlogolight.png#gh-dark-mode-only)](https://www.datastax.com/lp/astra-registration?utm_medium=youtube_video&utm_source=datastax&utm_campaign=yt_influencers&utm_content=vector_search_lewis_menelaws)
+
+![](assets/demo.gif)
 
 [**_SEE DISCLAIMER_**](#disclaimer)
+
+## [Chat with us on Discord](https://dsc.gg/lewismenelaws)
+
+[![](assets/discordbanner.png)](https://dsc.gg/lewismenelaws)
 
 ### How it Works
 
