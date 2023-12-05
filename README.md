@@ -13,9 +13,9 @@
     - [NOTES](#notes)
     - [🚨 DISCLAIMER 🚨](#-disclaimer-)
 
-[![](assets/datastaxlogo.png#gh-light-mode-only)](https://www.datastax.com/lp/astra-registration?utm_medium=youtube_video&utm_source=datastax&utm_campaign=yt_influencers&utm_content=vector_search_lewis_menelaws)
+[![](assets/datastaxlogo.png#gh-light-mode-only)](https://www.datastax.com/lp/astra-registration?utm_medium=youtube_video&utm_source=datastax&utm_campaign=yt_influencers&utm_content=vector_search_lewis_menelaws#gh-light-mode-only)
 
-[![](assets/datastaxlogolight.png#gh-dark-mode-only)](https://www.datastax.com/lp/astra-registration?utm_medium=youtube_video&utm_source=datastax&utm_campaign=yt_influencers&utm_content=vector_search_lewis_menelaws)
+[![](assets/datastaxlogolight.png#gh-dark-mode-only)](https://www.datastax.com/lp/astra-registration?utm_medium=youtube_video&utm_source=datastax&utm_campaign=yt_influencers&utm_content=vector_search_lewis_menelaws#gh-dark-mode-only)
 
 ![](assets/demo.gif)
 
