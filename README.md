@@ -19,7 +19,7 @@
 
 ![](assets/demo.gif)
 
-[**_SEE DISCLAIMER_**](#disclaimer)
+[**_SEE DISCLAIMER_**](#🚨-disclaimer-🚨)
 
 # [Chat with us on Discord](https://dsc.gg/lewismenelaws)
 

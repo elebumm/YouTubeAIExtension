@@ -19,7 +19,7 @@ auth_provider = PlainTextAuthProvider(os.getenv("ASTRA_DB_CLIENT"), os.getenv("A
 
 cluster = Cluster(
     cloud={
-        "secure_connect_bundle": "secure-connect-youtubeai.zip"
+        "secure_connect_bundle": os.getenv("SECURE_CONNECT_BUNDLE_PATH")
     },
     auth_provider=auth_provider,
 )
